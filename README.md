@@ -1,12 +1,4 @@
 # CoderDojo-projects
 Links and description of our projects.
 
-Link1
-
-Link 2
-
-Link 3
-
-Link 4
-
-Link 5
+https://github.com/VMVA13/Memory-Journal.git
