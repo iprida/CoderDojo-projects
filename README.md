@@ -1,12 +1,5 @@
 # CoderDojo-projects
 Links and description of our projects.
+added Andrei's link
 
-Link1
-
-Link 2
-
-Link 3
-
-Link 4
-
-Link 5
+https://github.com/SirBazooka/wellcode-exercises
