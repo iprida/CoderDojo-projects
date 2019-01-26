@@ -3,7 +3,6 @@ Links and description of our projects.
 
 
 
-https://github.com/arina79/CoderDojo-projects
-
+https://github.com/arina79/WatchThedogs
 
 
