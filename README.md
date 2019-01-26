@@ -1,4 +1,4 @@
-# CoderDojo-projects
+# CoderDojo Projects
 Links and description of our projects.
 
 ## Arina
