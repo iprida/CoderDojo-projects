@@ -12,3 +12,6 @@ https://github.com/VMVA13/Memory-Journal
 
 ## Patricia
 https://github.com/Patricia098/voiceofgirls
+
+## Augustin
+https://github.com/ViVoTiTAN/Redmi6Pro
